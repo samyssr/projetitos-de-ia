@@ -1,4 +1,4 @@
-# Projeto Carol: Assistente de Suporte Emocional" > experimento_carol.md
+# Projeto Carol: Assistente de Suporte Emocional
 
 Code
 import os
