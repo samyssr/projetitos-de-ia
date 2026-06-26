@@ -75,5 +75,5 @@ Com a temperatura ajustada para testes mais avançados, a resposta da Carol levo
 
 A IA conseguiu manter a empatia ou acabou quebrando as barreiras da alucinação? 
 
-🔗 **[Clique aqui para acessar a interação completa no Google AI Studio e ver o desfecho deste teste]([COLE_AQUI_O_SEU_LINK_GIGANTE](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2217CRhSFtd35H4-V2hvO7VRC-i0ZvKAc3X%22%5D,%22action%22:%22open%22,%22userId%22:%22114763762485020488419%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing))**
+🔗 **[Clique aqui para acessar a interação completa no Google AI Studio e ver o desfecho deste teste(https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2217CRhSFtd35H4-V2hvO7VRC-i0ZvKAc3X%22%5D,%22action%22:%22open%22,%22userId%22:%22114763762485020488419%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing))**
 
